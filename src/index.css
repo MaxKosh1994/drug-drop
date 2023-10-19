@@ -1,0 +1,10 @@
+:root {
+  color-scheme: light dark;
+  background-color: #000000;
+
+  font-family: "Edu SA Beginner", "Poppins", sans-serif;
+}
+
+* {
+  font-family: "Ysabeau Infant" !important;
+}

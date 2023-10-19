@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&family=Poppins:wght@500&display=swap");
+
+.container {
+  margin: 100px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 20px;
+  width: max-content;
+  padding: 30px;
+  background-color: rgba(255, 255, 255, 0.801);
+  background-image: url("./back.jpg");
+}
+
+.header {
+  color: black;
+}
+
+* {
+  font-family: "Edu SA Beginner", cursive;
+  font-family: "Poppins", sans-serif;
+}
